@@ -1,2 +1,4 @@
 # hello-world
-create a repo
+Hi guy,
+
+Have a good day!
